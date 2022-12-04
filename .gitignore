@@ -1,3 +1,12 @@
+groups.json
+settings.json
+rm.py
+admin.json
+bot.log
+trash/
+tmp/
+unused/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
